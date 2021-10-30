@@ -1,0 +1,21 @@
+body {
+    background: -webkit-linear-gradient(48deg, #FF0099, #493240);
+}
+
+#loading {
+	border: 5px solid black;
+	opacity: 0.35;
+	font-weight: 800;
+	border-radius: 10px;
+}
+
+#loading:hover {
+	border: 5px solid black;
+	opacity: 1;
+	background-color: grey;
+	font-weight: 800;
+}
+
+#line:hover {
+	color: red;
+}
